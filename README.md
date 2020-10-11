@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hello, world! 👋🌎
+
+- 🔭 I’m currently working on [Kingslayer](https://github.com/Maxgy/kingslayer), a text-based adventure written in Rust 🦀
+- 🌱 I’m currently learning Go, C#, Swift, SQL, more HTML/CSS
+- 😄 Pronouns: [he/him](https://pronoun.is/he)
 
 <!--
-**Maxgy/Maxgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Technologies and Tools
+
+![](https://img.shields.io/badge/OS-Artix%20Linux-informational?style=flat&logo=Arch+Linux&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU+Bash&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Editor-SpaceVim-informational?style=flat&logo=Neovim&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Editor-VS%20Code%20OSS-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=019733)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C+Sharp&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-WebAssembly-informational?style=flat&logo=WebAssembly&logoColor=white&color=019733)
+![](https://img.shields.io/badge/CI-GitHub%20Actions-informational?style=flat&logo=GitHub+Actions&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox+Browser&logoColor=white&color=019733)
+
+### Languages and Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxgy&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxgy&theme=merko&layout=compact" />
+</a>
+
+### Additional Skills
+- Java
+- C++
