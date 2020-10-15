@@ -37,11 +37,11 @@
 ### Languages and Stats
 
 <section>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Maxgy&show_icons=true&theme=merko"/>
+<a style="text-decoration: none;" href="https://github.com/Maxgy">
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=Maxgy&show_icons=true&theme=merko"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxgy&theme=merko&layout=compact"/>
+<a style="text-decoration: none;" href="https://github.com/Maxgy">
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxgy&theme=merko&layout=compact"/>
 </a>
 </section>
 
