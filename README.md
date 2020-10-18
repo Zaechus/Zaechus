@@ -34,7 +34,6 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-WebAssembly-informational?style=flat&logo=WebAssembly&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/CI-GitHub%20Actions-informational?style=flat&logo=GitHub+Actions&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox+Browser&logoColor=white&color=019733)
 
 ### Languages and Stats
 
