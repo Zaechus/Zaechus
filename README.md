@@ -30,6 +30,8 @@
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C+Sharp&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=flat&logo=C%2b%2b&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-WebAssembly-informational?style=flat&logo=WebAssembly&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/CI-GitHub%20Actions-informational?style=flat&logo=GitHub+Actions&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox+Browser&logoColor=white&color=019733)
@@ -44,7 +46,3 @@
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxgy&theme=merko&layout=compact"/>
 </a>
 </section>
-
-### Additional Skills
-- Java
-- C++
