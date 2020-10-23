@@ -42,6 +42,6 @@
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=Maxgy&show_icons=true&theme=merko"/>
 </a>
 <a style="text-decoration: none;" href="https://github.com/Maxgy">
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxgy&theme=merko&layout=compact"/>
+  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxgy&theme=merko&layout=compact&langs_count=10"/>
 </a>
 </section>
