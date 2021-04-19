@@ -1,9 +1,9 @@
 # Hello, world! 👋🌎
 
-- 🔭 I’m currently working on [Kingslayer](https://github.com/Maxgy/kingslayer), a text-based adventure written in Rust 🦀
+- 🔭 I’m currently working on [Kingslayer](https://github.com/Zaechus/kingslayer), a text-based adventure written in Rust 🦀
 - 🌱 I’m currently learning Go, C#, Swift, SQL, and more HTML/CSS
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
-- 📦 [My crates.io](https://crates.io/users/Maxgy?sort=downloads)
+- 📦 [My crates.io](https://crates.io/users/Zaechus?sort=downloads)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -36,10 +36,10 @@
 ### Languages and Stats
 
 <section>
-<a style="text-decoration: none;" href="https://github.com/Maxgy">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Maxgy&show_icons=true&theme=merko"/>
+<a style="text-decoration: none;" href="https://github.com/Zaechus">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Zaechus&show_icons=true&theme=merko"/>
 </a>
-<a style="text-decoration: none;" href="https://github.com/Maxgy">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxgy&theme=merko&layout=compact&langs_count=10"/>
+<a style="text-decoration: none;" href="https://github.com/Zaechus">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaechus&theme=merko&layout=compact&langs_count=10"/>
 </a>
 </section>
