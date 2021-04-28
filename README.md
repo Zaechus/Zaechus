@@ -20,8 +20,7 @@
 
 ![](https://img.shields.io/badge/OS-Artix%20Linux-informational?style=flat&logo=Arch+Linux&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU+Bash&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Editor-SpaceVim-informational?style=flat&logo=Neovim&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Editor-VS%20Code%20OSS-informational?style=flat&logo=Visual+Studio+Code&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=019733)
