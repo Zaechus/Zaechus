@@ -1,7 +1,7 @@
 # Hello, world! 👋🌎
 
 - 🔭 I’m currently working on [Kingslayer](https://github.com/Zaechus/kingslayer), a text-based adventure written in Rust 🦀
-- 🌱 I’m currently learning Go, C#, Swift, SQL, and more HTML/CSS
+- 🌱 I’m currently learning Go, C#, and Swift
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
 - 📦 [My crates.io](https://crates.io/users/Zaechus?sort=downloads)
 
