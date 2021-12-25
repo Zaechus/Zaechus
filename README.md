@@ -5,32 +5,20 @@
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
 - 📦 [My crates.io](https://crates.io/users/Zaechus?sort=downloads)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Technologies and Tools
 
-![](https://img.shields.io/badge/OS-Artix%20Linux-informational?style=flat&logo=Arch+Linux&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU+Bash&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=019733)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C+Sharp&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=flat&logo=C%2b%2b&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Code-WebAssembly-informational?style=flat&logo=WebAssembly&logoColor=white&color=019733)
-![](https://img.shields.io/badge/CI-GitHub%20Actions-informational?style=flat&logo=GitHub+Actions&logoColor=white&color=019733)
+![](https://img.shields.io/badge/OS-Gentoo-54487A?logo=Gentoo)
+![](https://img.shields.io/badge/OS-Artix%20Linux-blue?logo=Artix+Linux)
+![](https://img.shields.io/badge/Shell-Zsh-019733?logo=GNU+Bash&logoColor=white)
+![](https://img.shields.io/badge/Editor-Neovim-019733?logo=Neovim&logoColor=white)
+![](https://img.shields.io/badge/VCS-Git-orange?logo=Git) \
+![](https://img.shields.io/badge/Code-Rust-019733?logo=Rust)
+![](https://img.shields.io/badge/Code-Python-019733?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-019733?logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Code-C%2b%2b-019733?logo=C%2b%2b&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-019733?logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Code-C%23-019733?logo=C+Sharp&logoColor=white)
+![](https://img.shields.io/badge/Code-Go-019733?logo=Go&logoColor=white)
 
 ### Languages and Stats
 
