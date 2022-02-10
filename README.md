@@ -8,7 +8,7 @@
 ### Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Gentoo-54487A?logo=Gentoo)
-![](https://img.shields.io/badge/OS-Artix%20Linux-blue?logo=Artix+Linux)
+![](https://img.shields.io/badge/OS-Alpine%20Linux-blue?logo=Alpine+Linux)
 ![](https://img.shields.io/badge/Shell-Zsh-019733?logo=GNU+Bash&logoColor=white)
 ![](https://img.shields.io/badge/Editor-Neovim-019733?logo=Neovim&logoColor=white)
 ![](https://img.shields.io/badge/VCS-Git-orange?logo=Git) \
