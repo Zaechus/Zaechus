@@ -8,10 +8,12 @@
 ### Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Gentoo-54487A?logo=Gentoo)
-![](https://img.shields.io/badge/OS-Alpine%20Linux-blue?logo=Alpine+Linux)
+![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS)
+![](https://img.shields.io/badge/OS-Alpine%20Linux-0d597f?logo=Alpine+Linux)
+![](https://img.shields.io/badge/OS-openSUSE-74bb20?logo=openSUSE)
 ![](https://img.shields.io/badge/Shell-Zsh-019733?logo=GNU+Bash&logoColor=white)
-![](https://img.shields.io/badge/Editor-Neovim-019733?logo=Neovim&logoColor=white)
-![](https://img.shields.io/badge/VCS-Git-orange?logo=Git) \
+![](https://img.shields.io/badge/Editor-Neovim-019733?logo=Neovim&logoColor=white) \
+![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)
 ![](https://img.shields.io/badge/Code-Rust-019733?logo=Rust)
 ![](https://img.shields.io/badge/Code-Python-019733?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-019733?logo=JavaScript&logoColor=white)
