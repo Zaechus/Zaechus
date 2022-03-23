@@ -11,16 +11,16 @@
 ![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS)
 ![](https://img.shields.io/badge/OS-Alpine%20Linux-0d597f?logo=Alpine+Linux)
 ![](https://img.shields.io/badge/OS-openSUSE-74bb20?logo=openSUSE)
-![](https://img.shields.io/badge/Shell-Zsh-019733?logo=GNU+Bash&logoColor=white)
-![](https://img.shields.io/badge/Editor-Neovim-019733?logo=Neovim&logoColor=white) \
+![](https://img.shields.io/badge/Shell-Zsh-333333?logo=GNU+Bash&logoColor=white)
+![](https://img.shields.io/badge/Editor-Neovim-4f9840?logo=Neovim&logoColor=white) \
 ![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)
-![](https://img.shields.io/badge/Code-Rust-019733?logo=Rust)
-![](https://img.shields.io/badge/Code-Python-019733?logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-019733?logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Code-C%2b%2b-019733?logo=C%2b%2b&logoColor=white)
-![](https://img.shields.io/badge/Code-Java-019733?logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Code-C%23-019733?logo=C+Sharp&logoColor=white)
-![](https://img.shields.io/badge/Code-Go-019733?logo=Go&logoColor=white)
+![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)
+![](https://img.shields.io/badge/Code-Python-3572a5?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-f1e05a?logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Code-C%2b%2b-f34b7d?logo=C%2b%2b&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-b07219?logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Code-C%23-178600?logo=C+Sharp&logoColor=white)
+![](https://img.shields.io/badge/Code-Go-00add8?logo=Go&logoColor=white)
 
 ### Languages and Stats
 
