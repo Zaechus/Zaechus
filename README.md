@@ -4,17 +4,18 @@
 - 🌱 I’m currently learning Go, C#, and Swift
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
 - 📦 [My crates.io](https://crates.io/users/Zaechus?sort=downloads)
+- 📁 [My dotfiles](https://github.com/Zaechus/nixos-config)
 
 ### Technologies and Tools
 
-![](https://img.shields.io/badge/OS-Gentoo-54487A?logo=Gentoo)
-![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS)
+[![](https://img.shields.io/badge/OS-Gentoo-54487A?logo=Gentoo)](https://github.com/Zaechus/nixos-config/tree/main/hosts/gentoopad/gentoo)
+[![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS)](https://github.com/Zaechus/nixos-config)
 ![](https://img.shields.io/badge/OS-Alpine%20Linux-0d597f?logo=Alpine+Linux)
 ![](https://img.shields.io/badge/OS-openSUSE-74bb20?logo=openSUSE)
-![](https://img.shields.io/badge/Shell-Zsh-333333?logo=GNU+Bash&logoColor=white)
-![](https://img.shields.io/badge/Editor-Neovim-4f9840?logo=Neovim&logoColor=white) \
-![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)
-![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)
+[![](https://img.shields.io/badge/Shell-Zsh-333333?logo=GNU+Bash&logoColor=white)](https://github.com/Zaechus/nixos-config/blob/main/modules/zsh/default.nix)
+[![](https://img.shields.io/badge/Editor-Neovim-4f9840?logo=Neovim&logoColor=white)](https://github.com/Zaechus/nixos-config/blob/main/modules/neovim/init.vim) \
+[![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)](https://github.com/Zaechus)
+[![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)](https://crates.io/users/Zaechus?sort=downloads)
 ![](https://img.shields.io/badge/Code-Python-3572a5?logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-f1e05a?logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Code-C%2b%2b-f34b7d?logo=C%2b%2b&logoColor=white)
