@@ -10,7 +10,7 @@
 
 [![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS)](https://github.com/Zaechus/nixos-config)
 [![](https://img.shields.io/badge/Shell-nu-3eaf7c?logo=GNU+Bash&logoColor=white)](https://www.nushell.sh/)
-[![](https://img.shields.io/badge/Editor-hx-4f9840?logo=Neovim&logoColor=white)](https://helix-editor.com/)
+[![](https://img.shields.io/badge/Editor-hx-6e227f?logo=Neovim&logoColor=white)](https://helix-editor.com/)
 [![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)](https://github.com/Zaechus) \
 [![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)](https://crates.io/users/Zaechus?sort=downloads)
 ![](https://img.shields.io/badge/Code-Python-3572a5?logo=Python&logoColor=white)
