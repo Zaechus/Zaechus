@@ -22,10 +22,10 @@
 ### Languages and Stats
 
 <section>
-<a style="text-decoration: none;" href="https://github.com/Zaechus">
+<a style="text-decoration: none;" href="#">
   <img align="center" height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zaechus&show_icons=true&theme=merko"/>
 </a>
-<a style="text-decoration: none;" href="https://github.com/Zaechus">
+<a style="text-decoration: none;" href="#">
   <img align="center" height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zaechus&theme=merko&layout=compact&langs_count=10"/>
 </a>
 </section>
