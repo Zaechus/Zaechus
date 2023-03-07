@@ -1,4 +1,4 @@
-# Hello, world! 👋🌎
+# Zaechus
 
 - 🔭 I’m currently working on [Kingslayer](https://github.com/Zaechus/kingslayer), a text-based adventure written in Rust 🦀
 - 🌱 I’m currently learning Go, C#, and Swift
