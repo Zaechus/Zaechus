@@ -7,12 +7,14 @@
 
 ### Technologies and Tools
 
-[![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS)](https://github.com/Zaechus/nixos-config)
+[![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS&logoColor=7fa3ca)](https://nixos.org)
+[![](https://img.shields.io/badge/Terminal-alacritty-ac4242?logo=Alacritty&logoColor=F46D01)](https://helix-editor.com/)
+[![](https://img.shields.io/badge/Multiplexer-zellij-7E9FBE?logo=tmux&logoColor=7E9FBE)](https://helix-editor.com/)
 [![](https://img.shields.io/badge/Shell-nu-3eaf7c?logo=GNU+Bash&logoColor=white)](https://www.nushell.sh/)
 [![](https://img.shields.io/badge/Editor-hx-6e227f?logo=Neovim&logoColor=white)](https://helix-editor.com/)
 [![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)](https://github.com/Zaechus) \
-[![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)](https://crates.io/users/Zaechus?sort=downloads)
-![](https://img.shields.io/badge/Code-Python-3572a5?logo=Python&logoColor=white)
+[![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)](https://rust-lang.org)
+[![](https://img.shields.io/badge/Code-Python-3572a5?logo=Python&logoColor=white)](https://python.org)
 ![](https://img.shields.io/badge/Code-JavaScript-f1e05a?logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Code-C%2b%2b-f34b7d?logo=C%2b%2b&logoColor=white)
 ![](https://img.shields.io/badge/Code-Java-b07219?logo=Java&logoColor=white)
