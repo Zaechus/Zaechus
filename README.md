@@ -8,6 +8,7 @@
 ### Technologies and Tools
 
 [![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS&logoColor=7fa3ca)](https://nixos.org)
+[![](https://img.shields.io/badge/WM-sway-3c84ac?logo=sway&logoColor=afa137)](https://swaywm.org/)
 [![](https://img.shields.io/badge/Terminal-alacritty-ac4242?logo=Alacritty&logoColor=F46D01)](https://alacritty.org/)
 [![](https://img.shields.io/badge/Workspace-zellij-7E9FBE?logo=tmux&logoColor=7E9FBE)](https://zellij.dev/)
 [![](https://img.shields.io/badge/Shell-nu-3eaf7c?logo=GNU+Bash&logoColor=white)](https://www.nushell.sh/)
@@ -20,14 +21,3 @@
 ![](https://img.shields.io/badge/Code-Java-b07219?logo=OpenJDK&logoColor=white)
 ![](https://img.shields.io/badge/Code-C%23-178600?logo=C+Sharp&logoColor=white)
 ![](https://img.shields.io/badge/Code-Go-00add8?logo=Go&logoColor=white)
-
-### Languages and Stats
-
-<section>
-<a style="text-decoration: none;" href="#">
-  <img align="center" height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zaechus&show_icons=true&theme=merko"/>
-</a>
-<a style="text-decoration: none;" href="#">
-  <img align="center" height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zaechus&theme=merko&layout=compact&langs_count=10"/>
-</a>
-</section>
