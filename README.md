@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/OS-NixOS-6e9bcb?logo=NixOS&logoColor=7fa3ca)](https://nixos.org)
 [![](https://img.shields.io/badge/WM-sway-3c84ac?logo=sway&logoColor=afa137)](https://swaywm.org/)
 [![](https://img.shields.io/badge/Terminal-alacritty-ac4242?logo=Alacritty&logoColor=F46D01)](https://alacritty.org/)
-[![](https://img.shields.io/badge/Workspace-zellij-7E9FBE?logo=tmux&logoColor=7E9FBE)](https://zellij.dev/)
+[![](https://img.shields.io/badge/Workspace-tmux-1bb91f?logo=tmux)](https://github.com/tmux/tmux)
 [![](https://img.shields.io/badge/Shell-nu-3eaf7c?logo=GNU+Bash&logoColor=white)](https://www.nushell.sh/)
 [![](https://img.shields.io/badge/Editor-hx-6e227f?logo=Helix&logoColor=58c3e5)](https://helix-editor.com/)
 [![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)](https://github.com/Zaechus) \
